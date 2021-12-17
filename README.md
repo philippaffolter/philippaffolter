@@ -2,10 +2,9 @@
 
 #### I do this:
 :floppy_disk: :point_right: :dvd: :point_right: :computer: :point_right: :iphone: :point_right: :cloud: :point_right: :smiley:
-##
-Let's Connect!<br>
+## Let's Connect!<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
-###
+##
 <!--
 <img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
 <img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
@@ -16,7 +15,7 @@ Let's Connect!<br>
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter&theme=github-light)](https://git.io/streak-stats)
-###
+##
 ![](https://komarev.com/ghpvc/?username=philippaffolter)
 
 
