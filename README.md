@@ -1,4 +1,4 @@
-### Hi there 👋 I am Philipp | | :floppy_disk: `:floppy_disk:` --> 
+### Hi there 👋 I'm Philipp ||| :floppy_disk: :point_right: :dvd: :point_right: :computer: :point_right: :iphone: :point_right: :cloud: :point_right: :smiley:
 
 
 
