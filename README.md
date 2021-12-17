@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Philipp
 
-### I do this:
+#### I do this:
 :floppy_disk: :point_right: :dvd: :point_right: :computer: :point_right: :iphone: :point_right: :cloud: :point_right: :smiley:
 
-### Let's Connect!<br>
+#### Let's Connect!<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
 
 <!--
