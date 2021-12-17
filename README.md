@@ -1,6 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I am Philipp
+<!--
 [![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=philippaffolter&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter)](https://git.io/streak-stats)
 
