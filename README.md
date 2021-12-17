@@ -17,8 +17,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter&theme=github-light)](https://git.io/streak-stats)
 
-#
-<h1 style="text-align: center;">![](https://komarev.com/ghpvc/?username=philippaffolter)</h1>
+![](https://komarev.com/ghpvc/?username=philippaffolter)
 
 
 <!--
