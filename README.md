@@ -19,7 +19,7 @@ Let's Connect<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter&theme=github-light)](https://git.io/streak-stats)
 ##
-![](https://komarev.com/ghpvc/?username=philippaffolter) || [![Years Badge](https://badges.pufler.dev/years/philippaffolter)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=philippaffolter)  [![Years Badge](https://badges.pufler.dev/years/philippaffolter)](https://badges.pufler.dev)
 
 
 <!--
