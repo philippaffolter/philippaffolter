@@ -1,0 +1,9 @@
+site_name: Philipp Affolter
+repo_url: https://github.com/philippaffolter
+repo_name: philippaffolter
+theme:
+  name: material
+  
+nav:
+  - Get started:
+    - Introduction:                        index.md
