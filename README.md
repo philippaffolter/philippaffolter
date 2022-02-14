@@ -18,7 +18,8 @@ Let's Connect<br>
 
 [![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=philippaffolter&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=philippaffolter&count_private=true&theme=chartreuse-dark&hide=prs,issues,contribs)](https://github.com/philippaffolter/github-readme-stats)<br>
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=philippaffolter&count_private=true&theme=chartreuse-dark&hide=prs,issues,contribs)](https://github.com/philippaffolter/github-readme-stats)<br>
+-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter&theme=github-dark)](https://git.io/streak-stats)
 ##
 ![](https://komarev.com/ghpvc/?username=philippaffolter)  [![Years Badge](https://badges.pufler.dev/years/philippaffolter)](https://badges.pufler.dev)
