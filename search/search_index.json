@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Welcome to my mkdocs site Hope this works","title":"Introduction"},{"location":"#welcome-to-my-mkdocs-site","text":"Hope this works","title":"Welcome to my mkdocs site"}]}
