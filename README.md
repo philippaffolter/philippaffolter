@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Philipp
 
-##### Let's Connect:[![Linkedin Badge](https://img.shields.io/badge/-philippaffolter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter/) 
+### [![Linkedin Badge](https://img.shields.io/badge/-philippaffolter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter/) 
 <!--
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
 [![Linkedin Badge](https://img.shields.io/badge/-vgaupset-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vgaupset/) 
