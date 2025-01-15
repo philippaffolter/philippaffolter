@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Philipp
-
-### [![Linkedin Badge](https://img.shields.io/badge/-philippaffolter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter/) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-philippaffolter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter/)
+- 📫 How to reach me: 
 <!--
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
-[![Linkedin Badge](https://img.shields.io/badge/-vgaupset-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vgaupset/) 
+
 
 
 <img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
