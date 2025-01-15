@@ -16,6 +16,7 @@
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=philippaffolter&count_private=true&theme=chartreuse-dark&hide=prs,issues,contribs)](https://github.com/philippaffolter/github-readme-stats)<br>
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=philippaffolter&theme=github-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=github-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ##
 ![](https://komarev.com/ghpvc/?username=philippaffolter)
 
