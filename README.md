@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Philipp
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-philippaffolter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter/)
-<img src="Linkedin-QR.png" width="350" height="350" />
+<img src="Linkedin.png" width="350" height="350" />
 <!--
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
 
